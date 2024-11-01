@@ -1,7 +1,7 @@
 {
   "name": "Sakshi-Portfolio",
   "version": "0.1.0",
-  "homepage": "https://sakshi01coder.github.io/React_portfolio",
+  "homepage": "https://github.com/sakshi01coder/React_portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
