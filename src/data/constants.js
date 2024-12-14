@@ -10,7 +10,7 @@ export const Bio = {
     "Enthusiastic B.Tech IT student with a strong foundation in programming and software development. I am dedicated to contributing to innovative projects and eager to apply my skills to make a meaningful impact.",
   github: "https://github.com/sakshi01coder",
   resume:
-    "https://drive.google.com/file/d/1HZwn3cEHXQSuo7C99JEoaRJAd1Pz65OY/view?usp=sharing",
+    "https://drive.google.com/file/d/19zxmkhdEVH63HIjdaPGxp2NJ8416qEsQ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kumari-sakshi-4b5b9a248/",
 };
 
